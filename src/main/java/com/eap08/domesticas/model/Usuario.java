@@ -2,12 +2,19 @@ package com.eap08.domesticas.model;
 
 
 import jakarta.persistence.*;
+import lombok.AccessLevel;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 
 import java.time.LocalDateTime;
 
 @Data
+@Builder
+@NoArgsConstructor(access = AccessLevel.PUBLIC)
+@AllArgsConstructor
 @EqualsAndHashCode(callSuper = false)
 @Entity
 @Table(name = "usuario")
