@@ -1,3 +1,8 @@
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=fabrica-2026-1-calidad_Caso13&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=fabrica-2026-1-calidad_Caso13)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fabrica-2026-1-calidad_Caso13&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fabrica-2026-1-calidad_Caso13)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=fabrica-2026-1-calidad_Caso13&metric=bugs)](https://sonarcloud.io/summary/new_code?id=fabrica-2026-1-calidad_Caso13)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=fabrica-2026-1-calidad_Caso13&metric=coverage)](https://sonarcloud.io/summary/new_code?id=fabrica-2026-1-calidad_Caso13)
+
 # Domésticas API
 
 Backend REST para la gestión de tareas del hogar. Construido con Spring Boot 3.5, PostgreSQL, Flyway y Docker.
